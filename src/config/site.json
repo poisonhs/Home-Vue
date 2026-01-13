@@ -7,7 +7,7 @@
   {
     "name": "检测",
     "url": "https://",
-    "icon": "fa fa-cloud "
+    "icon": "fa fa-bolt"
   },
   {
     "name": "探针",
@@ -17,16 +17,16 @@
   {
     "name": "文件快传",
     "url": "https://kd.baili.fun",
-    "icon": "fa fa-image"
+    "icon": "fa fa-folder-closed"
   },
   {
     "name": "AI聚合",
     "url": "https://ai.baili.fun",
-    "icon": "fa fa-blog"
+    "icon": "fa fa-face-grin-hearts"
   },
   {
     "name": "AI API",
     "url": "https://ai.baililove.top",
-    "icon": "fa fa-icons"
+    "icon": "fa fa-heart"
   }
 ]
